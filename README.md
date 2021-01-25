@@ -15,6 +15,9 @@ Comment: the compiled file may be really helpful since you read the Post and now
 
 none of that stuff was working and I just copy pasta the tftp client so could get that gzfile and see wtf is happening..
 
+The files in this Repo.. starting point for why you came.. refer back to that Post for the Makefile mods ... the Makefile here is for Intel Platform.. so you need to read that Post on cross compilation for client .... OR just copy the client binary..its iOS ready to run. 
+
+
 Putting it all together.. 
 you'll be ssh into /dev/thingy
 
