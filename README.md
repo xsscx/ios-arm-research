@@ -9,7 +9,10 @@ The file named 'client' is a Binary ARM file for TFTP Command Line on iOS and it
 
 usage: ./client [-p port] [-h hostname] -f filename
 
-
 Reminder: Its a TFTP CLI Executable, so you need a TFTP Server and a few other things to make it all work..
+
+Comment: You probably don't need this file.. but it may be really helpful...
+
+
 
 
