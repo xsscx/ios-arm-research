@@ -172,11 +172,6 @@ int main(int argc, char *argv[])
     char PORT[10];
     sprintf(PORT,"%d",port);
 		printf("Starting client connecting to host: %s on port: %d with filename: %s\n", address, port, filename );
-
-    pid_t pid = getpid();
-    printf("Hello researcher from pid %d!\n", pid);
-    os_log_t log = os_log_create("com.example.cryptex", "hello");
-    os_log_info(log, "Hello researcher from pid %d!", pid);
     
     memset(&hints, 0, sizeof hints);
     hints.ai_family = AF_UNSPEC;
