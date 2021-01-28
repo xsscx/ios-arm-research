@@ -3,17 +3,13 @@ iOS, ARM, Research
 
 Updated Jan 25 2021
 
-You read and you are here.. 
-
-The file named 'client' is a Binary ARM file for TFTP Command Line on iOS and its signed with my Developer ID.
+The file named 'client' is a Binary ARM file for TFTP Command Line on iOS and its signed with my Developer ID for convenience for iOS Research
 
 usage: ./client [-p port] [-h hostname] -f filename
 
-Reminder: Its a TFTP CLI Executable, so you need a TFTP Server and a few other things to make it all work.. like a thingy...
+Reminder: Its a TFTP CLI Executable, so you need a TFTP Server and a few other things to make it all work..
 
-Comment: the compiled file may be really helpful since you read the Post and now you probably want to ghost along to the same point..
-
-none of that stuff was working and I just copy pasta the tftp client so could get that gzfile and see wtf is happening..
+Comment: the compiled file may be really helpful since you may want to exfil via port 69.
 
 The files in this Repo.. starting point for why you came.. refer back to that Post for the Makefile mods ... the Makefile here is for Intel Platform.. so you need to read that Post on cross compilation for client .... OR just copy the client binary..its iOS ready to run. 
 
