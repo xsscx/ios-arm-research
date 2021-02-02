@@ -7,7 +7,7 @@
 	<key>EnableTransactions</key>
 	<false/>
 	<key>Label</key>
-	<string>cx.xss.cryptex.client</string>
+	<string>cx.xss.client</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/usr/bin/client</string>
