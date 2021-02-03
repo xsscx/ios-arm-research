@@ -9,3 +9,11 @@ Currently, the Repo hosts a TFTP Server and Client as noted in that Private Post
 
 usage: client [-p port] [-h hostname] -f filename
 client will send filename to any TFTP Server
+
+Updated Feb 3, 2021
+
+Note to those coming to this Repo in a Blind manner.. you really don't want to be downloading anything here, it'll probably brick you iphone, on purpose.
+
+To those who land here Blind, be so careful what you download from the Internet.. these files are for troubleshoot technical support issue and have a very specific context.
+
+To the people that I sent here, you're in the right place. Keep going.. :-)
