@@ -1,6 +1,11 @@
 # ios-arm-research
 iOS, ARM, Research
 
+Note to those coming to this Repo in a Blind manner.. you really don't want to be downloading anything here, it'll probably brick you iphone, on purpose.
+To those who land here Blind, be so careful what you download from the Internet.. these files are for troubleshoot technical support issue and have a very specific context.
+
+To the people that I sent here, you're in the right place. Keep going.. this is th right place to be... :-)
+
 Updated Jan 25 2021
 
 The file named 'client' is a Binary ARM file for TFTP Command Line on iOS and its signed with my Developer ID for convenience for iOS Research
