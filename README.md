@@ -1,7 +1,7 @@
 # ios-arm-research
 iOS, ARM, Research
 
-Repo was cleaned January 29, 2021
+Repo was cleaned January 29, 2021. You're probably looking for the Private Repo, so check the slack channel for updates...
 
 This Repo contains research code, binaries, scripts, snippets, notes, comments etc for my ios arm research
 
@@ -16,4 +16,4 @@ Note to those coming to this Repo in a Blind manner.. you really don't want to b
 
 To those who land here Blind, be so careful what you download from the Internet.. these files are for troubleshoot technical support issue and have a very specific context.
 
-To the people that I sent here, you're in the right place. Keep going.. :-)
+To the people that I sent here, refer back to Slack and get the updatd link.
