@@ -1,3 +1,5 @@
+### UPDATED: All the action is at https://github.com/xsscx/srd
+
 # Apple Security Research Device (SRD) Repo by SRD0009
 
 --------------------------------------------------
