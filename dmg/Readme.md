@@ -1,1 +1,1 @@
-### SEE URL https://github.com/xsscx/srd
+### All the action is at https://github.com/xsscx/srd
