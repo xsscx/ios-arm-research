@@ -4,11 +4,7 @@ https://github.com/xsscx/srd
 # ios-arm-research
 iOS, ARM, Research
 
-You're probably looking for the Private Repo, so check the slack channel for updates...
-
-This Repo contains research code, binaries, scripts, snippets, notes, comments etc for my ios arm research
-
-Currently, the Repo hosts a TFTP Server and Client as noted in that Private Post.
+All the action is at https://github.com/xsscx/srd
 
 usage: client [-p port] [-h hostname] -f filename
 client will send filename to any TFTP Server
